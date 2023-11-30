@@ -1,9 +1,9 @@
 <h3><u>Hi, I'm Gustavo, a student of programming and technology! 
 <br>Welcome to my Profile!!</u></h3>
-<h3> My last project: https://scga.gustavoh242.repl.co/ </h3>
+<h3> My last project: https://github.com/Gustavo-Henrique-da-Silva/SCGA </h3>
 <div> 
 
-  <a href = "gustavohenrique10002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "gustavohenrique8919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ##
   
