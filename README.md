@@ -4,7 +4,7 @@
 <h3> Portfolio: https://gustavo-henrique-da-silva.github.io/Portfolio </h3>
 <div> 
 
-  <a href = "gustavohenrique8919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavopereira8919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ##
   
