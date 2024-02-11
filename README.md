@@ -21,8 +21,8 @@
 
 ### 📊📈 Language statistics
 <div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
-  <a href="https://github.com/Gustavo-Henrique-da-Silva">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-da-Silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Henrique-da-Silva&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/GustavoPereira-Dev">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoPereira-Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPereira-Dev&layout=compact&langs_count=7&theme=react"/>
 </div>
   
