@@ -32,6 +32,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img align="center" alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
   
 ### Databases/Technologies
@@ -57,7 +58,7 @@
     
 <a href="https://www.github.com/gustavopereira-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gustavopereira-dev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
-[![Visit Count](https://visitcount.itsvg.in/api?id=GustavoPereira-Dev&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 
 
