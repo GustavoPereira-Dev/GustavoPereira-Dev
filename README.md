@@ -53,9 +53,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoPereira-Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPereira-Dev&layout=compact&langs_count=7&theme=react"/>
   <img height="165em" src="https://github-contributor-stats.vercel.app/api?username=GustavoPereira-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoPereira-Dev&theme=highcontrast&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=GustavoPereira-Dev&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GustavoPereira-Dev&theme=dark&mode=weekly" alt="GitHub Streak" />
+
 </div><br/>
-    
+  
 <a href="https://www.github.com/gustavopereira-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gustavopereira-dev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
