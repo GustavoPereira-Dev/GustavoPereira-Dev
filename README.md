@@ -74,6 +74,9 @@
   <img src="https://streak-stats.demolab.com?user=GustavoPereira-Dev&theme=dark" alt="GitHub Streak" />
   <img src="https://streak-stats.demolab.com?user=GustavoPereira-Dev&theme=dark&mode=weekly" alt="GitHub Streak" />
 </div><br/>
+
+
+[![wakatime](https://wakatime.com/badge/user/09206044-bf70-4f5c-92f0-a90c4fdaf03c.svg)](https://wakatime.com/@09206044-bf70-4f5c-92f0-a90c4fdaf03c)
   
 <a href="https://www.github.com/gustavopereira-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gustavopereira-dev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
