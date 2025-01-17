@@ -75,24 +75,16 @@
   <img src="https://streak-stats.demolab.com?user=GustavoPereira-Dev&theme=dark&mode=weekly" alt="GitHub Streak" />
 </div><br/>
 
-
-[![wakatime](https://wakatime.com/badge/user/09206044-bf70-4f5c-92f0-a90c4fdaf03c.svg)](https://wakatime.com/@09206044-bf70-4f5c-92f0-a90c4fdaf03c)
+<div align="center">
   
-  
-<a href="https://www.github.com/gustavopereira-dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gustavopereira-dev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
-
+[![Gustavo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoPereiraDev)](https://github.com/GustavoPereiraDev/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/GustavoPereira-Dev/GustavoPereira-Dev/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GustavoPereira-Dev/count.svg?"  />
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/09206044-bf70-4f5c-92f0-a90c4fdaf03c.svg)](https://wakatime.com/@09206044-bf70-4f5c-92f0-a90c4fdaf03c)
+<a href="https://www.github.com/gustavopereira-dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gustavopereira-dev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GustavoPereira-Dev.GustavoPereira-Dev&right_color=aquamarine"  />
 
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-[![Gustavo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoPereiraDev)](https://github.com/GustavoPereiraDev/github-readme-stats)
